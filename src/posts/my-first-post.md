@@ -8,6 +8,8 @@ tags:
   - center
   - right
 ---
+![](src/static/img/buffer.png)
+
 # This is a Heading h1
 
 ## This is a Heading h2
