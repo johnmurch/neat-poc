@@ -8,7 +8,7 @@ tags:
   - center
   - right
 ---
-![Test](src/static/img/buffer.png "Testing")
+![Test](/static/img/buffer.png "Testing")
 
 # This is a Heading h1
 
